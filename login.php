@@ -32,7 +32,7 @@ if(!isset($_SESSION['email'])){
 				//login
 				$_SESSION['email']=$email;
 				echo "Logged in.";
-				header("Location: home.php");
+				header("Location: welcome.php");
 			}
 
 		}else{
