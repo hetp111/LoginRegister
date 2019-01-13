@@ -1,2 +1,2 @@
 # LoginRegister
-Register and Login System in PHP and MySQL (goo.gl/tc6qVm)
+Register and login system in PHP and MySQL (Youtube video tutorial: goo.gl/tc6qVm)
